@@ -6,8 +6,11 @@
 
 Small Python 3 script to download and convert YouTube videos from MP4 into MP3.
 
+Download from video from youtube or convert to multiple audio formats.
+
+The program makes use of youtube-dl.
 
 
 Prerequisite
 pytube
-pip3 install pytube
+pip install pytube
